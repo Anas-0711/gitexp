@@ -2,6 +2,8 @@
 #include<bits/stdc++.h>
 //CHanges made here
 //This is my branch RAVI
+//These are changes
+//Too many changes
 char word[10000];
 char pattern[10000];
 
