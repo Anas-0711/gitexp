@@ -1,6 +1,6 @@
 #Hello there, General Kenobi
 #include<bits/stdc++.h>
-
+//CHanges made here
 char word[10000];
 char pattern[10000];
 
